@@ -1,0 +1,32 @@
+{
+  "name": "EminetClient",
+  "version": "0.0.1",
+  "description": "a client you deserve!",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "startd": "npm start -- --debug",
+    "startd-linux": "ELECTRON_ENABLE_STACK_DUMPING=1 ELECTRON_ENABLE_LOGGING=true npm start -- --debug",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder",
+    "release": "electron-builder",
+    "postinstall": "electron-builder install-app-deps"
+  },
+  "author": "emi",
+  "license": "GPL-3.0-or-later",
+  "keywords": [
+    "krunker.io, krunker, krunker client"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "electron": "^10.4.7",
+    "electron-builder": "^23.6.0"
+  },
+  "dependencies": {
+    "v8-compile-cache": "^2.3.0"
+  }
+}
