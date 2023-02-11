@@ -1,5 +1,5 @@
 # Eminet-Client
-[![Discord](https://img.shields.io/discord/1054358106215297074?label=Discord&color=blue)](https://discord.gg/r2D6y84pkF)
+[![Discord](https://img.shields.io/badge/discord-72%20members-blue)](https://discord.gg/r2D6y84pkF)
 
 ### Download 
 ###### this download is only for windows! (lunix next update!)
