@@ -3,6 +3,6 @@
 
 ### Download 
 ###### this download is only for windows! (lunix next update!)
-[![Total downloads](https://img.shields.io/github/downloads/rudyoriginal/sex/total?color=limegreen&label=Downloads)](https://github.com/Da7-dev/Eminet-Client/releases/download/Beta/EminetClient-setup-win.exe)
+[![Total downloads](https://img.shields.io/badge/downloads-12-green)](https://github.com/Da7-dev/Eminet-Client/releases/download/Beta/EminetClient-setup-win.exe)
 
 
